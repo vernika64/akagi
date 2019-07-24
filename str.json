@@ -1,12 +1,1 @@
-[
-  {
-    "id": 1,
-    "email": "vernika@ijn.com",
-    "password": "passphrase"
-  },
-  {
-    "id": 2,
-    "email": "ansuz@uss.com",
-    "password": "passphrase"
-  }
-]
+{"list_ship":[{"id":"1","name":"Akagi","type":"CV","images":"http:\/\/10.0.2.2\/azurlane\/images\/akagi.png"},{"id":"2","name":"Kaga","type":"CV","images":"http:\/\/10.0.2.2\/azurlane\/images\/kaga.png"}]}
